@@ -8,22 +8,22 @@ A tool with 40 working tools.
 
 # Installation :
 ```bash
-$apt update
+$ apt update
 
-$apt upgrade
+$ apt upgrade
 
-$apt install git
+$ apt install git
 
-$apt install python
+$ apt install python
 
-$git clone https://www.github.com/teamx4ck/tool-hub
+$ git clone https://www.github.com/teamx4ck/tool-hub
 ```
 # Run :
 ```bash
 $ python tool-hub.py
 ```
 # author :
-* 1. Rakib Hossain
+* Rakib Hossain
 
 # FB Group
 * Name : x4ck cyber army
