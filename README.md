@@ -2,7 +2,7 @@
 A tool with 40 working tools.
 
 # Features :
-* 1. 40 Working Tool
+* 40 Working Tool
 # language :
 * python 3.8.3
 
