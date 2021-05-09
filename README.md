@@ -16,6 +16,8 @@ $ apt install git
 
 $ apt install python
 
+$ pip install pyfiglet
+
 $ git clone https://www.github.com/teamx4ck/tool-hub
 ```
 # Run :
